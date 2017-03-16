@@ -1,0 +1,35 @@
+C:\Documents and Settings\Ray Gordon\Local Settings\Application Data\Temporary Projects\HEXStream\bin\Debug\HEXStream.exe
+C:\Documents and Settings\Ray Gordon\Local Settings\Application Data\Temporary Projects\HEXStream\bin\Debug\HEXStream.pdb
+C:\Documents and Settings\Ray Gordon\Local Settings\Application Data\Temporary Projects\HEXStream\bin\Debug\HEXStream.xml
+C:\Documents and Settings\Ray Gordon\Local Settings\Application Data\Temporary Projects\HEXStream\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ray Gordon\Local Settings\Application Data\Temporary Projects\HEXStream\obj\Debug\HEXStream.Form1.resources
+C:\Documents and Settings\Ray Gordon\Local Settings\Application Data\Temporary Projects\HEXStream\obj\Debug\HEXStream.Resources.resources
+C:\Documents and Settings\Ray Gordon\Local Settings\Application Data\Temporary Projects\HEXStream\obj\Debug\HEXStream.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ray Gordon\Local Settings\Application Data\Temporary Projects\HEXStream\obj\Debug\HEXStream.exe
+C:\Documents and Settings\Ray Gordon\Local Settings\Application Data\Temporary Projects\HEXStream\obj\Debug\HEXStream.xml
+C:\Documents and Settings\Ray Gordon\Local Settings\Application Data\Temporary Projects\HEXStream\obj\Debug\HEXStream.pdb
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\HEXStream\obj\Debug\HEXStream.exe
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\HEXStream\obj\Debug\HEXStream.xml
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\HEXStream\obj\Debug\HEXStream.pdb
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\HEXStream\bin\Debug\HEXStream.exe
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\HEXStream\bin\Debug\HEXStream.pdb
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\HEXStream\bin\Debug\HEXStream.xml
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\HEXStream\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\HEXStream\obj\Debug\HEXStream.Form1.resources
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\HEXStream\obj\Debug\HEXStream.Resources.resources
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\HEXStream\obj\Debug\HEXStream.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\Source\HEXStream\obj\Debug\HEXStream.exe
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\Source\HEXStream\obj\Debug\HEXStream.xml
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\Source\HEXStream\obj\Debug\HEXStream.pdb
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\Source\HEXStream\bin\Debug\HEXStream.exe.config
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\Source\HEXStream\bin\Debug\HEXStream.exe
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\Source\HEXStream\bin\Debug\HEXStream.pdb
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\Source\HEXStream\bin\Debug\HEXStream.xml
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\Source\HEXStream\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\Source\HEXStream\obj\Debug\HEXStream.Form1.resources
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\Source\HEXStream\obj\Debug\HEXStream.Resources.resources
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\Source\HEXStream\obj\Debug\HEXStream.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\Source\HEXStream\bin\Debug\HEXStream.exe.manifest
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\Source\HEXStream\bin\Debug\HEXStream.application
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\Source\HEXStream\obj\Debug\HEXStream.exe.manifest
+C:\Documents and Settings\Ray Gordon\Desktop\Visual Basic\HEXStream\Source\HEXStream\obj\Debug\HEXStream.application
