@@ -94,6 +94,16 @@
 #define	mSetAllDigitalIO()		ADCON1=0x0F;			// All I/O is digital
 
 														// Initialise ports as per above I/O map
+
+#ifdef __18f2550
+#define	mInitAllIO()			mSetAllDigitalIO();\
+								LATC = 0x00;\
+								LATB = 0x00;\
+								LATA = 0x00;\
+								TRISC = 0xFF;\
+								TRISB = 0xFF;\
+								TRISA = 0xFF;
+#else
 #define	mInitAllIO()			mSetAllDigitalIO();\
 								LATE = 0x00;\
 								LATD = 0x00;\
@@ -105,16 +115,22 @@
 								TRISC = 0xFF;\
 								TRISB = 0xFF;\
 								TRISA = 0xFF;
-		 
+#endif	 
 
 /** STATUS LED MACROS **/ 
 #define mStatus_LED_On(x)		x = 1;
 #define	mStatus_LED_Off(x)		x = 0;
 #define	mToggle_Status_LED(x)	x = !x;
 
+#ifdef __18f2550
+#define mSet_Status_LEDS(x)		LATBbits.LATB7 = ((x) & 0x0F); 	// Set all four LEDS where x = 0 to 0x0F
+#define mToggle_Status_LEDS()	LATBbits.LATB7 = ~LATBbits.LATB7;			// Toggle all four LEDSs
+														// Simplified macros as upper bits of port are unused in this example!
+#else
 #define mSet_Status_LEDS(x)		LATD = ((x) & 0x0F); 	// Set all four LEDS where x = 0 to 0x0F
 #define mToggle_Status_LEDS()	LATD = ~LATD;			// Toggle all four LEDSs
 														// Simplified macros as upper bits of port are unused in this example!
+#endif
 
 /** TIMER2 MACROS **/
 

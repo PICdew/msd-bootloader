@@ -41,7 +41,10 @@
 #pragma config  CCP2MX = ON			// CCP2 Mux RC1
 #pragma config  STVREN = ON			// Stack Overflow Reset  
 #pragma config	LVP = OFF			// Disable Single-Supply ICSP
+
+#ifndef __18f2550
 #pragma config	ICPRT = OFF			// Dedicated ICPORT
+#endif
 
 #pragma config	WRT0 = OFF			// No Write Protection
 #pragma config	WRT1 = OFF
